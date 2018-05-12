@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34439
     wikipedia: http://en.wikipedia.org/wiki/Cale_Young_Rice
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34004#Yolanda-of-Cyprus
 gutenberg_issued: '2010-09-27'
 gutenberg_type: Text
 identifiers:
